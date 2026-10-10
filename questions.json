@@ -1,0 +1,25 @@
+{
+  "title": "General Knowledge Quiz",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": 2
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": 1
+    },
+    {
+      "question": "What is 12 x 8?",
+      "options": ["96", "86", "108", "88"],
+      "answer": 0
+    },
+    {
+      "question": "Which language is primarily used for styling web pages?",
+      "options": ["HTML", "Python", "CSS", "SQL"],
+      "answer": 2
+    }
+  ]
+}
